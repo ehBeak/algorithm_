@@ -12,4 +12,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ehBeak/algorithm_/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ehBeak/algorithm_/tree/master/0506-relative-ranks) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ehBeak/algorithm_/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ehBeak/algorithm_/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
