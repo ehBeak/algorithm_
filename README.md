@@ -1,6 +1,6 @@
 # algorithm
-BaekJoon
-leetCode
+* BaekJoon
+* leetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
