@@ -15,7 +15,7 @@
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/ehBeak/algorithm_/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/ehBeak/algorithm_/tree/master/LeetCode/0001-two-sum) |
 | [0506-relative-ranks](https://github.com/ehBeak/algorithm_/tree/master/LeetCode/0506-relative-ranks) |
 ## Sorting
 |  |
@@ -28,5 +28,5 @@
 ## Hash Table
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/ehBeak/algorithm_/tree/master/0001-two-sum) |
+| [0001-two-sum](https://github.com/ehBeak/algorithm_/tree/master/LeetCode/0001-two-sum) |
 <!---LeetCode Topics End-->
